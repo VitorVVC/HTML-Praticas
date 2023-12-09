@@ -1,0 +1,12 @@
+        body{
+            background-color:darkgray;
+        }
+        
+        nav{
+            background-color: aqua;
+            border: 3px solid black;
+        }
+
+        a{
+            padding: 10px 10px;
+        }
